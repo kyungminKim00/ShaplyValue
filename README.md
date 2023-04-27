@@ -9,8 +9,7 @@ $$
 \phi_i(f) = \sum_{S \subseteq N \setminus \{i\}} \frac{|N|!}{|S|!(|N| - |S| - 1)!} [f(S \cup \{i\}) - f(S)]
 $$
 
-여기서,
-
+where,
 $\phi_i(f)$는 특성 $i$의 샤플리 값입니다.
 $f$는 예측 모델입니다.
 $S$는 특성 집합입니다.
