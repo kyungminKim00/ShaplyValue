@@ -1,0 +1,2 @@
+c,stop criterion,bags,noise,classifier,accuracy,precision,recall,f1 score,learnT,testT 
+1,0.01,2,0.1,AdaBoostClassifier,0.5367965367965368,0.5480769230769231,0.48717948717948717,0.5158371040723981,2.24575138092041,1.4826695919036865
